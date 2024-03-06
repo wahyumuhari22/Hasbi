@@ -6,6 +6,7 @@
 <body>
   <?php
     echo "hasbi nikmal";
+    echo 'wahyu";
   ?>
 </body>
 </html>
